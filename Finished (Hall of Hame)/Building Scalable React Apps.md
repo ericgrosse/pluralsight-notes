@@ -260,5 +260,3 @@ Also suprised to see the author use a `ref` to target input elements instead of 
 ## Presenting a Validation Message
 
 Remember to use the `classNames` library and the computed property syntax for conditional class names.
-
-[Currently here]
