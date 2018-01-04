@@ -19,8 +19,10 @@ It is the jQuery of frameworks. It exists to facilitate usage, to use the APIs a
 
 Both Vue and React make use of a Virtual DOM to improve efficiency
 
+# Creating Vue.js Templates
 
+## Loading Data Properties
 
----
+Vue adds getters and setters to your objects, which makes them difficult to inspect in the dev console. The workaround to this is to install a google chrome extension called `vue-devtools`.
 
-Currently on: Introducing the Bind Directive
+[Currently on: Binding to Checkboxes]
